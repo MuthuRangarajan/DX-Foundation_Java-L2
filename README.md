@@ -1,2 +1,3 @@
-# DX-Foundation_Java-L2
-Training
+# DX-Foundation-Java-L2
+
+Topgear project on spring Boot.
